@@ -1,1 +1,25 @@
-# projeto_icd
+<h1 align="center">Projeto final da disciplina de Introdução à Ciência de Dados</h1>
+<br>
+
+# Título
+
+# Grupo
+* [Carlos Freitas](https://github.com/carlimmsantos)
+* [Gabriele Targino](https://github.com/gabitargino)
+* [Pedro Lucas Simões](https://github.com/pedroLucabral)
+* [Wesley Vieira](https://github.com/wesleyvieira1)
+
+#Professor
+* [Yuri Malheiros](https://github.com/yurimalheiros)
+
+# Perguntas
+
+- Pergunta 1
+
+- Pergunta 2
+
+- Pergunta 3
+
+# Dados 📖
+* 🔎 [Dataset 1] 
+* 🔎 [Dataset 2]
