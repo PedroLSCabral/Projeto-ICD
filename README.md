@@ -1,4 +1,4 @@
-<h1 align="center">Projeto final da disciplina de Introdução à Ciência de Dados</h1>
+<h1 align="center">Projeto Final da Disciplina de <br>Introdução à Ciência de Dados 🎲</h1>
 <br>
 
 # Nome do projeto
