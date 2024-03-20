@@ -1,7 +1,7 @@
 <h1 align="center">Projeto final da disciplina de Introdução à Ciência de Dados</h1>
 <br>
 
-# Título
+# Nome do projeto
 
 # Grupo
 * [Carlos Freitas](https://github.com/carlimmsantos)
