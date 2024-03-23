@@ -14,12 +14,11 @@
 
 # Perguntas
 
-- Pergunta 1
+- Quais fatores influenciam o desempenho de uma equipe em um torneio Valorant?
 
-- Pergunta 2
+- Quais agentes são os mais eficazes em diferentes mapas e situações?
 
-- Pergunta 3
+- Como os jogadores profissionais estão se adaptando ao meta do jogo?
 
 # Dados 📖
-* 🔎 [Dataset 1] 
-* 🔎 [Dataset 2]
+* 🔎 [Valorant Champion Tour 2021-2022](https://www.kaggle.com/datasets/ryanluong1/valorant-champion-tour-2021-2023-data)
