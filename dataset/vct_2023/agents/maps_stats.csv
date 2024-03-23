@@ -1,0 +1,739 @@
+Tournament,Stage,Match Type,Map,Total Maps Played,Attacker Side Win Percentage,Defender Side Win Percentage
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Knockout Round,All Maps,6,47%,53%
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Knockout Round,Haven,2,40%,60%
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Knockout Round,Bind,1,58%,42%
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Knockout Round,Fracture,1,71%,29%
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Knockout Round,Lotus,1,50%,50%
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Knockout Round,Pearl,1,26%,74%
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Upper Semifinals,All Maps,4,43%,57%
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Upper Semifinals,Split,2,51%,49%
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Upper Semifinals,Lotus,1,44%,56%
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Upper Semifinals,Pearl,1,29%,71%
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Upper Final,All Maps,2,40%,60%
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Upper Final,Haven,1,42%,58%
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Upper Final,Pearl,1,39%,61%
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Grand Final,All Maps,3,50%,50%
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Grand Final,Bind,1,46%,54%
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Grand Final,Haven,1,50%,50%
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Grand Final,Lotus,1,55%,45%
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Lower Round 1,All Maps,3,56%,44%
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Lower Round 1,Lotus,1,58%,42%
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Lower Round 1,Ascent,1,55%,45%
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Lower Round 1,Pearl,1,55%,45%
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Lower Final,All Maps,3,62%,38%
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Lower Final,Fracture,1,68%,32%
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Lower Final,Pearl,1,78%,22%
+Champions Tour 2023: EMEA Last Chance Qualifier,Playoffs,Lower Final,Split,1,42%,58%
+Champions Tour 2023: EMEA Last Chance Qualifier,All Stages,All Match Types,All Maps,21,50%,50%
+Champions Tour 2023: EMEA Last Chance Qualifier,All Stages,All Match Types,Pearl,5,45%,55%
+Champions Tour 2023: EMEA Last Chance Qualifier,All Stages,All Match Types,Lotus,4,52%,48%
+Champions Tour 2023: EMEA Last Chance Qualifier,All Stages,All Match Types,Haven,4,43%,57%
+Champions Tour 2023: EMEA Last Chance Qualifier,All Stages,All Match Types,Split,3,48%,52%
+Champions Tour 2023: EMEA Last Chance Qualifier,All Stages,All Match Types,Bind,2,52%,48%
+Champions Tour 2023: EMEA Last Chance Qualifier,All Stages,All Match Types,Fracture,2,70%,30%
+Champions Tour 2023: EMEA Last Chance Qualifier,All Stages,All Match Types,Ascent,1,55%,45%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Round 1,All Maps,2,46%,54%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Round 1,Ascent,1,48%,52%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Round 1,Fracture,1,45%,55%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Quarterfinals,All Maps,5,46%,54%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Quarterfinals,Split,2,50%,50%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Quarterfinals,Ascent,1,43%,57%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Quarterfinals,Haven,1,67%,33%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Quarterfinals,Pearl,1,21%,79%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Semifinals,All Maps,5,40%,60%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Semifinals,Ascent,2,38%,62%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Semifinals,Haven,2,35%,65%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Semifinals,Split,1,52%,48%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Final,All Maps,2,67%,33%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Final,Lotus,1,68%,32%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Upper Final,Fracture,1,65%,35%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Lower Round 1,All Maps,3,59%,41%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Lower Round 1,Ascent,1,65%,35%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Lower Round 1,Haven,1,47%,53%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Lower Round 1,Lotus,1,67%,33%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Lower Final,All Maps,4,49%,51%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Lower Final,Ascent,1,67%,33%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Lower Final,Haven,1,30%,70%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Lower Final,Lotus,1,74%,26%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Lower Final,Pearl,1,38%,63%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Grand Final,All Maps,4,49%,51%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Grand Final,Ascent,1,41%,59%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Grand Final,Fracture,1,42%,58%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Grand Final,Lotus,1,42%,58%
+Champions Tour 2023: Pacific Last Chance Qualifier,Main Event,Grand Final,Split,1,75%,25%
+Champions Tour 2023: Pacific Last Chance Qualifier,All Stages,All Match Types,All Maps,25,49%,51%
+Champions Tour 2023: Pacific Last Chance Qualifier,All Stages,All Match Types,Ascent,7,47%,53%
+Champions Tour 2023: Pacific Last Chance Qualifier,All Stages,All Match Types,Haven,5,44%,56%
+Champions Tour 2023: Pacific Last Chance Qualifier,All Stages,All Match Types,Lotus,4,63%,37%
+Champions Tour 2023: Pacific Last Chance Qualifier,All Stages,All Match Types,Split,4,56%,44%
+Champions Tour 2023: Pacific Last Chance Qualifier,All Stages,All Match Types,Fracture,3,50%,50%
+Champions Tour 2023: Pacific Last Chance Qualifier,All Stages,All Match Types,Pearl,2,29%,71%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Round 1,All Maps,2,51%,49%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Round 1,Lotus,1,67%,33%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Round 1,Bind,1,35%,65%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Quarterfinals,All Maps,6,46%,54%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Quarterfinals,Split,2,43%,57%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Quarterfinals,Bind,2,55%,45%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Quarterfinals,Ascent,1,59%,41%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Quarterfinals,Pearl,1,25%,75%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Semifinals,All Maps,5,54%,46%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Semifinals,Split,2,59%,41%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Semifinals,Lotus,1,55%,45%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Semifinals,Fracture,1,39%,61%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Semifinals,Pearl,1,57%,43%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Final,All Maps,3,66%,34%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Final,Ascent,1,53%,47%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Final,Haven,1,53%,47%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Upper Final,Pearl,1,94%,6%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Grand Final,All Maps,4,47%,53%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Grand Final,Lotus,1,57%,43%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Grand Final,Ascent,1,42%,58%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Grand Final,Pearl,1,29%,71%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Grand Final,Split,1,61%,39%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Lower Round 1,All Maps,2,45%,55%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Lower Round 1,Split,1,53%,47%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Lower Round 1,Fracture,1,38%,62%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Lower Final,All Maps,5,56%,44%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Lower Final,Bind,1,45%,55%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Lower Final,Haven,1,83%,17%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Lower Final,Lotus,1,55%,45%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Lower Final,Pearl,1,41%,59%
+Champions Tour 2023: Americas Last Chance Qualifier,Main Event,Lower Final,Split,1,54%,46%
+Champions Tour 2023: Americas Last Chance Qualifier,All Stages,All Match Types,All Maps,27,52%,48%
+Champions Tour 2023: Americas Last Chance Qualifier,All Stages,All Match Types,Split,7,53%,47%
+Champions Tour 2023: Americas Last Chance Qualifier,All Stages,All Match Types,Pearl,5,47%,53%
+Champions Tour 2023: Americas Last Chance Qualifier,All Stages,All Match Types,Lotus,4,58%,42%
+Champions Tour 2023: Americas Last Chance Qualifier,All Stages,All Match Types,Bind,4,48%,52%
+Champions Tour 2023: Americas Last Chance Qualifier,All Stages,All Match Types,Ascent,3,51%,49%
+Champions Tour 2023: Americas Last Chance Qualifier,All Stages,All Match Types,Fracture,2,38%,62%
+Champions Tour 2023: Americas Last Chance Qualifier,All Stages,All Match Types,Haven,2,69%,31%
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Quarterfinals,All Maps,9,58%,42%
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Quarterfinals,Bind,2,53%,48%
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Quarterfinals,Fracture,2,62%,38%
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Quarterfinals,Split,2,55%,45%
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Quarterfinals,Ascent,1,61%,39%
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Quarterfinals,Haven,1,59%,41%
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Quarterfinals,Lotus,1,63%,38%
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Semifinals,All Maps,4,49%,51%
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Semifinals,Bind,1,65%,35%
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Semifinals,Fracture,1,80%,20%
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Semifinals,Haven,1,50%,50%
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Semifinals,Lotus,1,6%,94%
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Final,All Maps,3,50%,50%
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Final,Lotus,1,69%,31%
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Final,Fracture,1,32%,68%
+Champions Tour 2023: Masters Tokyo,Playoffs,Upper Final,Split,1,54%,46%
+Champions Tour 2023: Masters Tokyo,Playoffs,Grand Final,All Maps,3,48%,52%
+Champions Tour 2023: Masters Tokyo,Playoffs,Grand Final,Lotus,1,38%,62%
+Champions Tour 2023: Masters Tokyo,Playoffs,Grand Final,Bind,1,67%,33%
+Champions Tour 2023: Masters Tokyo,Playoffs,Grand Final,Split,1,38%,63%
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 1,All Maps,4,49%,51%
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 1,Fracture,1,65%,35%
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 1,Haven,1,50%,50%
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 1,Lotus,1,53%,47%
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 1,Pearl,1,29%,71%
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 2,All Maps,6,41%,59%
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 2,Split,2,45%,55%
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 2,Ascent,1,48%,52%
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 2,Fracture,1,33%,67%
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 2,Haven,1,33%,67%
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 2,Lotus,1,43%,57%
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 3,All Maps,3,58%,42%
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 3,Lotus,1,74%,26%
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 3,Bind,1,63%,38%
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Round 3,Pearl,1,42%,58%
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Final,All Maps,5,47%,53%
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Final,Ascent,1,57%,43%
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Final,Fracture,1,35%,65%
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Final,Lotus,1,58%,42%
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Final,Pearl,1,58%,42%
+Champions Tour 2023: Masters Tokyo,Playoffs,Lower Final,Split,1,26%,74%
+Champions Tour 2023: Masters Tokyo,Group Stage,Opening (A),All Maps,6,57%,43%
+Champions Tour 2023: Masters Tokyo,Group Stage,Opening (A),Ascent,1,62%,38%
+Champions Tour 2023: Masters Tokyo,Group Stage,Opening (A),Fracture,1,57%,43%
+Champions Tour 2023: Masters Tokyo,Group Stage,Opening (A),Haven,1,35%,65%
+Champions Tour 2023: Masters Tokyo,Group Stage,Opening (A),Lotus,1,67%,33%
+Champions Tour 2023: Masters Tokyo,Group Stage,Opening (A),Pearl,1,50%,50%
+Champions Tour 2023: Masters Tokyo,Group Stage,Opening (A),Split,1,74%,26%
+Champions Tour 2023: Masters Tokyo,Group Stage,Winner's (A),All Maps,3,49%,51%
+Champions Tour 2023: Masters Tokyo,Group Stage,Winner's (A),Lotus,1,54%,46%
+Champions Tour 2023: Masters Tokyo,Group Stage,Winner's (A),Bind,1,35%,65%
+Champions Tour 2023: Masters Tokyo,Group Stage,Winner's (A),Pearl,1,54%,46%
+Champions Tour 2023: Masters Tokyo,Group Stage,Elimination (A),All Maps,2,54%,46%
+Champions Tour 2023: Masters Tokyo,Group Stage,Elimination (A),Bind,1,50%,50%
+Champions Tour 2023: Masters Tokyo,Group Stage,Elimination (A),Pearl,1,58%,42%
+Champions Tour 2023: Masters Tokyo,Group Stage,Decider (A),All Maps,2,61%,39%
+Champions Tour 2023: Masters Tokyo,Group Stage,Decider (A),Fracture,1,47%,53%
+Champions Tour 2023: Masters Tokyo,Group Stage,Decider (A),Haven,1,74%,26%
+Champions Tour 2023: Masters Tokyo,Group Stage,Opening (B),All Maps,4,49%,51%
+Champions Tour 2023: Masters Tokyo,Group Stage,Opening (B),Lotus,1,50%,50%
+Champions Tour 2023: Masters Tokyo,Group Stage,Opening (B),Fracture,1,52%,48%
+Champions Tour 2023: Masters Tokyo,Group Stage,Opening (B),Pearl,1,55%,45%
+Champions Tour 2023: Masters Tokyo,Group Stage,Opening (B),Split,1,39%,61%
+Champions Tour 2023: Masters Tokyo,Group Stage,Winner's (B),All Maps,2,50%,50%
+Champions Tour 2023: Masters Tokyo,Group Stage,Winner's (B),Ascent,1,50%,50%
+Champions Tour 2023: Masters Tokyo,Group Stage,Winner's (B),Fracture,1,50%,50%
+Champions Tour 2023: Masters Tokyo,Group Stage,Elimination (B),All Maps,3,48%,52%
+Champions Tour 2023: Masters Tokyo,Group Stage,Elimination (B),Ascent,1,61%,39%
+Champions Tour 2023: Masters Tokyo,Group Stage,Elimination (B),Haven,1,33%,67%
+Champions Tour 2023: Masters Tokyo,Group Stage,Elimination (B),Lotus,1,53%,47%
+Champions Tour 2023: Masters Tokyo,Group Stage,Decider (B),All Maps,3,38%,62%
+Champions Tour 2023: Masters Tokyo,Group Stage,Decider (B),Bind,1,32%,68%
+Champions Tour 2023: Masters Tokyo,Group Stage,Decider (B),Fracture,1,62%,38%
+Champions Tour 2023: Masters Tokyo,Group Stage,Decider (B),Haven,1,18%,82%
+Champions Tour 2023: Masters Tokyo,All Stages,All Match Types,All Maps,62,51%,49%
+Champions Tour 2023: Masters Tokyo,All Stages,All Match Types,Lotus,12,53%,47%
+Champions Tour 2023: Masters Tokyo,All Stages,All Match Types,Fracture,12,52%,48%
+Champions Tour 2023: Masters Tokyo,All Stages,All Match Types,Split,9,47%,53%
+Champions Tour 2023: Masters Tokyo,All Stages,All Match Types,Bind,8,52%,48%
+Champions Tour 2023: Masters Tokyo,All Stages,All Match Types,Haven,8,44%,56%
+Champions Tour 2023: Masters Tokyo,All Stages,All Match Types,Pearl,7,49%,51%
+Champions Tour 2023: Masters Tokyo,All Stages,All Match Types,Ascent,6,56%,44%
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Semifinals,All Maps,8,52%,48%
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Semifinals,Fracture,2,55%,45%
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Semifinals,Ascent,1,48%,52%
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Semifinals,Haven,1,46%,54%
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Semifinals,Icebox,1,67%,33%
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Semifinals,Lotus,1,71%,29%
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Semifinals,Pearl,1,39%,61%
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Semifinals,Split,1,35%,65%
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Grand Final,All Maps,5,51%,49%
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Grand Final,Ascent,1,43%,57%
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Grand Final,Fracture,1,35%,65%
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Grand Final,Icebox,1,75%,25%
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Grand Final,Lotus,1,48%,52%
+Champions Tour 2023: Lock-In Sao Paulo,Playoffs,Grand Final,Split,1,50%,50%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,All Maps,18,56%,44%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,Haven,5,60%,40%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,Pearl,5,55%,45%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,Ascent,2,40%,60%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,Fracture,2,56%,44%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,Icebox,2,68%,32%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Round of 16,Lotus,2,50%,50%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Quarterfinals,All Maps,10,52%,49%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Quarterfinals,Haven,3,50%,50%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Quarterfinals,Icebox,2,54%,46%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Quarterfinals,Pearl,2,54%,46%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Quarterfinals,Split,2,41%,59%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Quarterfinals,Lotus,1,67%,33%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Semifinals,All Maps,6,50%,50%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Semifinals,Fracture,2,49%,51%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Semifinals,Ascent,1,32%,68%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Semifinals,Icebox,1,52%,48%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Semifinals,Pearl,1,58%,42%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Alpha - Semifinals,Split,1,56%,44%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,All Maps,17,50%,50%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,Pearl,5,46%,54%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,Lotus,4,61%,39%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,Ascent,2,66%,34%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,Icebox,2,32%,68%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,Split,2,62%,38%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,Fracture,1,35%,65%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Round of 16,Haven,1,37%,63%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Quarterfinals,All Maps,9,53%,47%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Quarterfinals,Haven,3,60%,40%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Quarterfinals,Icebox,2,52%,48%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Quarterfinals,Pearl,2,36%,64%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Quarterfinals,Ascent,1,41%,59%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Quarterfinals,Lotus,1,68%,32%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Semifinals,All Maps,4,55%,45%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Semifinals,Fracture,2,79%,21%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Semifinals,Ascent,1,57%,43%
+Champions Tour 2023: Lock-In Sao Paulo,Bracket Stage,Omega - Semifinals,Icebox,1,22%,78%
+Champions Tour 2023: Lock-In Sao Paulo,All Stages,All Match Types,All Maps,77,52%,48%
+Champions Tour 2023: Lock-In Sao Paulo,All Stages,All Match Types,Pearl,16,49%,51%
+Champions Tour 2023: Lock-In Sao Paulo,All Stages,All Match Types,Haven,13,55%,45%
+Champions Tour 2023: Lock-In Sao Paulo,All Stages,All Match Types,Icebox,12,52%,48%
+Champions Tour 2023: Lock-In Sao Paulo,All Stages,All Match Types,Fracture,10,53%,47%
+Champions Tour 2023: Lock-In Sao Paulo,All Stages,All Match Types,Lotus,10,60%,40%
+Champions Tour 2023: Lock-In Sao Paulo,All Stages,All Match Types,Ascent,9,47%,53%
+Champions Tour 2023: Lock-In Sao Paulo,All Stages,All Match Types,Split,7,49%,51%
+Valorant Champions 2023,Playoffs,Upper Quarterfinals,All Maps,9,47%,53%
+Valorant Champions 2023,Playoffs,Upper Quarterfinals,Ascent,3,40%,60%
+Valorant Champions 2023,Playoffs,Upper Quarterfinals,Lotus,2,29%,71%
+Valorant Champions 2023,Playoffs,Upper Quarterfinals,Pearl,2,66%,34%
+Valorant Champions 2023,Playoffs,Upper Quarterfinals,Haven,1,50%,50%
+Valorant Champions 2023,Playoffs,Upper Quarterfinals,Split,1,67%,33%
+Valorant Champions 2023,Playoffs,Upper Semifinals,All Maps,5,52%,48%
+Valorant Champions 2023,Playoffs,Upper Semifinals,Lotus,2,54%,46%
+Valorant Champions 2023,Playoffs,Upper Semifinals,Fracture,1,41%,59%
+Valorant Champions 2023,Playoffs,Upper Semifinals,Pearl,1,52%,48%
+Valorant Champions 2023,Playoffs,Upper Semifinals,Split,1,67%,33%
+Valorant Champions 2023,Playoffs,Upper Final,All Maps,3,49%,51%
+Valorant Champions 2023,Playoffs,Upper Final,Ascent,1,65%,35%
+Valorant Champions 2023,Playoffs,Upper Final,Bind,1,32%,68%
+Valorant Champions 2023,Playoffs,Upper Final,Pearl,1,50%,50%
+Valorant Champions 2023,Playoffs,Grand Final,All Maps,4,59%,41%
+Valorant Champions 2023,Playoffs,Grand Final,Ascent,1,54%,46%
+Valorant Champions 2023,Playoffs,Grand Final,Bind,1,39%,61%
+Valorant Champions 2023,Playoffs,Grand Final,Lotus,1,65%,35%
+Valorant Champions 2023,Playoffs,Grand Final,Split,1,74%,26%
+Valorant Champions 2023,Playoffs,Lower Round 1,All Maps,5,51%,49%
+Valorant Champions 2023,Playoffs,Lower Round 1,Split,2,50%,50%
+Valorant Champions 2023,Playoffs,Lower Round 1,Haven,2,44%,56%
+Valorant Champions 2023,Playoffs,Lower Round 1,Bind,1,71%,29%
+Valorant Champions 2023,Playoffs,Lower Round 2,All Maps,6,44%,56%
+Valorant Champions 2023,Playoffs,Lower Round 2,Bind,2,37%,63%
+Valorant Champions 2023,Playoffs,Lower Round 2,Haven,2,48%,52%
+Valorant Champions 2023,Playoffs,Lower Round 2,Ascent,1,50%,50%
+Valorant Champions 2023,Playoffs,Lower Round 2,Split,1,42%,58%
+Valorant Champions 2023,Playoffs,Lower Round 3,All Maps,3,54%,46%
+Valorant Champions 2023,Playoffs,Lower Round 3,Ascent,1,68%,32%
+Valorant Champions 2023,Playoffs,Lower Round 3,Haven,1,45%,55%
+Valorant Champions 2023,Playoffs,Lower Round 3,Split,1,47%,53%
+Valorant Champions 2023,Playoffs,Lower Final,All Maps,5,61%,39%
+Valorant Champions 2023,Playoffs,Lower Final,Ascent,1,58%,42%
+Valorant Champions 2023,Playoffs,Lower Final,Bind,1,48%,52%
+Valorant Champions 2023,Playoffs,Lower Final,Lotus,1,71%,29%
+Valorant Champions 2023,Playoffs,Lower Final,Pearl,1,67%,33%
+Valorant Champions 2023,Playoffs,Lower Final,Split,1,65%,35%
+Valorant Champions 2023,Group Stage,Opening (A),All Maps,5,56%,44%
+Valorant Champions 2023,Group Stage,Opening (A),Split,2,66%,34%
+Valorant Champions 2023,Group Stage,Opening (A),Ascent,1,48%,52%
+Valorant Champions 2023,Group Stage,Opening (A),Bind,1,46%,54%
+Valorant Champions 2023,Group Stage,Opening (A),Pearl,1,57%,43%
+Valorant Champions 2023,Group Stage,Winner's (A),All Maps,2,57%,43%
+Valorant Champions 2023,Group Stage,Winner's (A),Fracture,1,55%,45%
+Valorant Champions 2023,Group Stage,Winner's (A),Pearl,1,58%,42%
+Valorant Champions 2023,Group Stage,Elimination (A),All Maps,2,53%,47%
+Valorant Champions 2023,Group Stage,Elimination (A),Lotus,1,65%,35%
+Valorant Champions 2023,Group Stage,Elimination (A),Pearl,1,42%,58%
+Valorant Champions 2023,Group Stage,Decider (A),All Maps,2,54%,46%
+Valorant Champions 2023,Group Stage,Decider (A),Split,1,63%,37%
+Valorant Champions 2023,Group Stage,Decider (A),Fracture,1,45%,55%
+Valorant Champions 2023,Group Stage,Opening (B),All Maps,4,48%,52%
+Valorant Champions 2023,Group Stage,Opening (B),Pearl,2,37%,63%
+Valorant Champions 2023,Group Stage,Opening (B),Ascent,1,62%,38%
+Valorant Champions 2023,Group Stage,Opening (B),Haven,1,55%,45%
+Valorant Champions 2023,Group Stage,Winner's (B),All Maps,2,41%,59%
+Valorant Champions 2023,Group Stage,Winner's (B),Bind,1,59%,41%
+Valorant Champions 2023,Group Stage,Winner's (B),Pearl,1,25%,75%
+Valorant Champions 2023,Group Stage,Elimination (B),All Maps,2,65%,35%
+Valorant Champions 2023,Group Stage,Elimination (B),Lotus,1,65%,35%
+Valorant Champions 2023,Group Stage,Elimination (B),Bind,1,65%,35%
+Valorant Champions 2023,Group Stage,Decider (B),All Maps,2,40%,60%
+Valorant Champions 2023,Group Stage,Decider (B),Bind,1,22%,78%
+Valorant Champions 2023,Group Stage,Decider (B),Pearl,1,58%,42%
+Valorant Champions 2023,Group Stage,Opening (C),All Maps,4,49%,51%
+Valorant Champions 2023,Group Stage,Opening (C),Fracture,1,50%,50%
+Valorant Champions 2023,Group Stage,Opening (C),Haven,1,42%,58%
+Valorant Champions 2023,Group Stage,Opening (C),Lotus,1,58%,42%
+Valorant Champions 2023,Group Stage,Opening (C),Split,1,43%,57%
+Valorant Champions 2023,Group Stage,Winner's (C),All Maps,2,67%,33%
+Valorant Champions 2023,Group Stage,Winner's (C),Lotus,1,67%,33%
+Valorant Champions 2023,Group Stage,Winner's (C),Haven,1,67%,33%
+Valorant Champions 2023,Group Stage,Elimination (C),All Maps,2,55%,45%
+Valorant Champions 2023,Group Stage,Elimination (C),Bind,1,42%,58%
+Valorant Champions 2023,Group Stage,Elimination (C),Haven,1,79%,21%
+Valorant Champions 2023,Group Stage,Decider (C),All Maps,2,59%,41%
+Valorant Champions 2023,Group Stage,Decider (C),Ascent,1,50%,50%
+Valorant Champions 2023,Group Stage,Decider (C),Bind,1,65%,35%
+Valorant Champions 2023,Group Stage,Opening (D),All Maps,5,53%,47%
+Valorant Champions 2023,Group Stage,Opening (D),Ascent,1,43%,57%
+Valorant Champions 2023,Group Stage,Opening (D),Bind,1,58%,42%
+Valorant Champions 2023,Group Stage,Opening (D),Fracture,1,54%,46%
+Valorant Champions 2023,Group Stage,Opening (D),Lotus,1,58%,42%
+Valorant Champions 2023,Group Stage,Opening (D),Split,1,47%,53%
+Valorant Champions 2023,Group Stage,Winner's (D),All Maps,3,47%,53%
+Valorant Champions 2023,Group Stage,Winner's (D),Lotus,1,50%,50%
+Valorant Champions 2023,Group Stage,Winner's (D),Bind,1,33%,67%
+Valorant Champions 2023,Group Stage,Winner's (D),Split,1,59%,41%
+Valorant Champions 2023,Group Stage,Elimination (D),All Maps,2,36%,64%
+Valorant Champions 2023,Group Stage,Elimination (D),Split,1,38%,62%
+Valorant Champions 2023,Group Stage,Elimination (D),Haven,1,33%,67%
+Valorant Champions 2023,Group Stage,Decider (D),All Maps,3,46%,54%
+Valorant Champions 2023,Group Stage,Decider (D),Ascent,1,46%,54%
+Valorant Champions 2023,Group Stage,Decider (D),Bind,1,54%,46%
+Valorant Champions 2023,Group Stage,Decider (D),Pearl,1,38%,63%
+Valorant Champions 2023,All Stages,All Match Types,All Maps,84,51%,49%
+Valorant Champions 2023,All Stages,All Match Types,Split,15,57%,43%
+Valorant Champions 2023,All Stages,All Match Types,Bind,15,47%,53%
+Valorant Champions 2023,All Stages,All Match Types,Ascent,13,51%,49%
+Valorant Champions 2023,All Stages,All Match Types,Pearl,13,50%,50%
+Valorant Champions 2023,All Stages,All Match Types,Lotus,12,55%,45%
+Valorant Champions 2023,All Stages,All Match Types,Haven,11,50%,50%
+Valorant Champions 2023,All Stages,All Match Types,Fracture,5,49%,51%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Quarterfinals,All Maps,9,60%,40%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Quarterfinals,Bind,3,69%,31%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Quarterfinals,Fracture,2,51%,49%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Quarterfinals,Lotus,2,70%,30%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Quarterfinals,Haven,1,35%,65%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Quarterfinals,Split,1,50%,50%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Semifinals,All Maps,6,48%,52%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Semifinals,Split,2,56%,44%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Semifinals,Haven,2,47%,53%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Semifinals,Bind,1,67%,33%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Semifinals,Lotus,1,17%,83%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Final,All Maps,3,50%,50%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Final,Bind,1,43%,57%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Final,Pearl,1,56%,44%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Upper Final,Split,1,53%,47%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Grand Final,All Maps,4,48%,52%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Grand Final,Bind,1,67%,33%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Grand Final,Fracture,1,53%,47%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Grand Final,Haven,1,33%,67%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Grand Final,Split,1,37%,63%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 1,All Maps,4,50%,50%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 1,Ascent,1,68%,32%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 1,Fracture,1,50%,50%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 1,Lotus,1,39%,61%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 1,Split,1,39%,61%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 2,All Maps,6,46%,54%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 2,Split,2,43%,57%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 2,Ascent,2,44%,56%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 2,Fracture,1,52%,48%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 2,Lotus,1,50%,50%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 3,All Maps,4,52%,48%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 3,Ascent,1,63%,38%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 3,Bind,1,45%,55%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 3,Fracture,1,43%,57%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Round 3,Pearl,1,57%,43%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Final,All Maps,5,47%,53%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Final,Ascent,1,28%,72%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Final,Bind,1,41%,59%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Final,Lotus,1,63%,38%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Final,Pearl,1,59%,41%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Lower Final,Split,1,37%,63%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Knockout Round,All Maps,10,49%,51%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Knockout Round,Haven,3,64%,36%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Knockout Round,Bind,2,48%,52%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Knockout Round,Lotus,2,37%,63%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Knockout Round,Split,2,42%,58%
+Champions Tour 2023: Champions China Qualifier,Playoffs,Knockout Round,Pearl,1,41%,59%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,All Maps,20,55%,45%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Split,5,68%,32%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Lotus,5,56%,44%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Ascent,3,52%,48%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Bind,2,44%,56%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Fracture,2,70%,30%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Haven,2,39%,61%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 1,Pearl,1,25%,75%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,All Maps,18,50%,50%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Split,4,49%,51%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Lotus,4,51%,49%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Ascent,3,37%,63%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Bind,3,62%,38%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Haven,3,61%,39%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 2,Fracture,1,25%,75%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,All Maps,18,49%,51%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Bind,5,50%,50%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Ascent,3,43%,57%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Lotus,3,56%,44%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Pearl,3,38%,63%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Split,2,46%,54%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Fracture,1,70%,30%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 3,Haven,1,63%,38%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 4,All Maps,15,56%,44%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 4,Lotus,4,62%,38%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 4,Bind,3,69%,31%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 4,Split,3,46%,54%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 4,Ascent,2,61%,39%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 4,Pearl,2,47%,53%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 4,Haven,1,28%,72%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 5,All Maps,8,56%,44%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 5,Haven,3,62%,38%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 5,Ascent,2,58%,42%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 5,Bind,1,38%,63%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 5,Lotus,1,61%,39%
+Champions Tour 2023: Champions China Qualifier,Preliminary Stage,Round 5,Split,1,52%,48%
+Champions Tour 2023: Champions China Qualifier,All Stages,All Match Types,All Maps,130,52%,48%
+Champions Tour 2023: Champions China Qualifier,All Stages,All Match Types,Split,26,51%,49%
+Champions Tour 2023: Champions China Qualifier,All Stages,All Match Types,Lotus,25,54%,46%
+Champions Tour 2023: Champions China Qualifier,All Stages,All Match Types,Bind,24,55%,45%
+Champions Tour 2023: Champions China Qualifier,All Stages,All Match Types,Ascent,18,49%,51%
+Champions Tour 2023: Champions China Qualifier,All Stages,All Match Types,Haven,17,52%,48%
+Champions Tour 2023: Champions China Qualifier,All Stages,All Match Types,Fracture,10,52%,48%
+Champions Tour 2023: Champions China Qualifier,All Stages,All Match Types,Pearl,10,44%,56%
+Champions Tour 2023: Pacific League,Playoffs,Upper Round 1,All Maps,3,48%,52%
+Champions Tour 2023: Pacific League,Playoffs,Upper Round 1,Ascent,1,29%,71%
+Champions Tour 2023: Pacific League,Playoffs,Upper Round 1,Fracture,1,52%,48%
+Champions Tour 2023: Pacific League,Playoffs,Upper Round 1,Lotus,1,65%,35%
+Champions Tour 2023: Pacific League,Playoffs,Upper Semifinals,All Maps,5,49%,51%
+Champions Tour 2023: Pacific League,Playoffs,Upper Semifinals,Bind,1,29%,71%
+Champions Tour 2023: Pacific League,Playoffs,Upper Semifinals,Fracture,1,39%,61%
+Champions Tour 2023: Pacific League,Playoffs,Upper Semifinals,Haven,1,59%,41%
+Champions Tour 2023: Pacific League,Playoffs,Upper Semifinals,Lotus,1,43%,57%
+Champions Tour 2023: Pacific League,Playoffs,Upper Semifinals,Split,1,72%,28%
+Champions Tour 2023: Pacific League,Playoffs,Upper Final,All Maps,2,57%,43%
+Champions Tour 2023: Pacific League,Playoffs,Upper Final,Bind,1,53%,47%
+Champions Tour 2023: Pacific League,Playoffs,Upper Final,Fracture,1,61%,39%
+Champions Tour 2023: Pacific League,Playoffs,Lower Round 1,All Maps,6,57%,43%
+Champions Tour 2023: Pacific League,Playoffs,Lower Round 1,Haven,2,57%,43%
+Champions Tour 2023: Pacific League,Playoffs,Lower Round 1,Ascent,1,62%,38%
+Champions Tour 2023: Pacific League,Playoffs,Lower Round 1,Bind,1,58%,42%
+Champions Tour 2023: Pacific League,Playoffs,Lower Round 1,Fracture,1,65%,35%
+Champions Tour 2023: Pacific League,Playoffs,Lower Round 1,Split,1,42%,58%
+Champions Tour 2023: Pacific League,Playoffs,Lower Round 2,All Maps,2,57%,43%
+Champions Tour 2023: Pacific League,Playoffs,Lower Round 2,Ascent,1,48%,52%
+Champions Tour 2023: Pacific League,Playoffs,Lower Round 2,Fracture,1,65%,35%
+Champions Tour 2023: Pacific League,Playoffs,Lower Final,All Maps,5,58%,42%
+Champions Tour 2023: Pacific League,Playoffs,Lower Final,Ascent,1,79%,21%
+Champions Tour 2023: Pacific League,Playoffs,Lower Final,Bind,1,47%,53%
+Champions Tour 2023: Pacific League,Playoffs,Lower Final,Fracture,1,29%,71%
+Champions Tour 2023: Pacific League,Playoffs,Lower Final,Haven,1,71%,29%
+Champions Tour 2023: Pacific League,Playoffs,Lower Final,Pearl,1,59%,41%
+Champions Tour 2023: Pacific League,Playoffs,Grand Final,All Maps,5,51%,49%
+Champions Tour 2023: Pacific League,Playoffs,Grand Final,Ascent,1,50%,50%
+Champions Tour 2023: Pacific League,Playoffs,Grand Final,Bind,1,37%,63%
+Champions Tour 2023: Pacific League,Playoffs,Grand Final,Fracture,1,63%,37%
+Champions Tour 2023: Pacific League,Playoffs,Grand Final,Lotus,1,44%,56%
+Champions Tour 2023: Pacific League,Playoffs,Grand Final,Pearl,1,57%,43%
+Champions Tour 2023: Pacific League,League Play,Week 1,All Maps,12,53%,47%
+Champions Tour 2023: Pacific League,League Play,Week 1,Lotus,3,51%,49%
+Champions Tour 2023: Pacific League,League Play,Week 1,Pearl,3,51%,49%
+Champions Tour 2023: Pacific League,League Play,Week 1,Ascent,2,50%,50%
+Champions Tour 2023: Pacific League,League Play,Week 1,Fracture,2,63%,37%
+Champions Tour 2023: Pacific League,League Play,Week 1,Haven,1,71%,29%
+Champions Tour 2023: Pacific League,League Play,Week 1,Icebox,1,33%,67%
+Champions Tour 2023: Pacific League,League Play,Week 2,All Maps,13,48%,52%
+Champions Tour 2023: Pacific League,League Play,Week 2,Haven,4,46%,54%
+Champions Tour 2023: Pacific League,League Play,Week 2,Ascent,2,50%,50%
+Champions Tour 2023: Pacific League,League Play,Week 2,Fracture,2,41%,59%
+Champions Tour 2023: Pacific League,League Play,Week 2,Lotus,2,33%,67%
+Champions Tour 2023: Pacific League,League Play,Week 2,Split,2,57%,43%
+Champions Tour 2023: Pacific League,League Play,Week 2,Pearl,1,71%,29%
+Champions Tour 2023: Pacific League,League Play,Week 3,All Maps,11,42%,58%
+Champions Tour 2023: Pacific League,League Play,Week 3,Pearl,4,47%,53%
+Champions Tour 2023: Pacific League,League Play,Week 3,Haven,3,41%,59%
+Champions Tour 2023: Pacific League,League Play,Week 3,Fracture,2,44%,56%
+Champions Tour 2023: Pacific League,League Play,Week 3,Ascent,1,42%,58%
+Champions Tour 2023: Pacific League,League Play,Week 3,Split,1,19%,81%
+Champions Tour 2023: Pacific League,League Play,Week 4,All Maps,10,54%,46%
+Champions Tour 2023: Pacific League,League Play,Week 4,Split,3,53%,47%
+Champions Tour 2023: Pacific League,League Play,Week 4,Ascent,3,60%,40%
+Champions Tour 2023: Pacific League,League Play,Week 4,Haven,2,50%,50%
+Champions Tour 2023: Pacific League,League Play,Week 4,Icebox,2,51%,49%
+Champions Tour 2023: Pacific League,League Play,Week 5,All Maps,12,52%,48%
+Champions Tour 2023: Pacific League,League Play,Week 5,Haven,4,52%,48%
+Champions Tour 2023: Pacific League,League Play,Week 5,Ascent,2,48%,52%
+Champions Tour 2023: Pacific League,League Play,Week 5,Fracture,2,50%,50%
+Champions Tour 2023: Pacific League,League Play,Week 5,Pearl,2,49%,51%
+Champions Tour 2023: Pacific League,League Play,Week 5,Icebox,1,65%,35%
+Champions Tour 2023: Pacific League,League Play,Week 5,Split,1,63%,37%
+Champions Tour 2023: Pacific League,League Play,Week 6,All Maps,14,54%,46%
+Champions Tour 2023: Pacific League,League Play,Week 6,Split,4,52%,48%
+Champions Tour 2023: Pacific League,League Play,Week 6,Lotus,3,52%,48%
+Champions Tour 2023: Pacific League,League Play,Week 6,Fracture,3,50%,50%
+Champions Tour 2023: Pacific League,League Play,Week 6,Pearl,3,70%,30%
+Champions Tour 2023: Pacific League,League Play,Week 6,Haven,1,38%,62%
+Champions Tour 2023: Pacific League,League Play,Week 7,All Maps,10,50%,50%
+Champions Tour 2023: Pacific League,League Play,Week 7,Fracture,3,45%,55%
+Champions Tour 2023: Pacific League,League Play,Week 7,Ascent,2,60%,40%
+Champions Tour 2023: Pacific League,League Play,Week 7,Lotus,2,43%,57%
+Champions Tour 2023: Pacific League,League Play,Week 7,Bind,1,48%,52%
+Champions Tour 2023: Pacific League,League Play,Week 7,Pearl,1,63%,38%
+Champions Tour 2023: Pacific League,League Play,Week 7,Split,1,42%,58%
+Champions Tour 2023: Pacific League,League Play,Week 8,All Maps,23,54%,46%
+Champions Tour 2023: Pacific League,League Play,Week 8,Ascent,4,67%,33%
+Champions Tour 2023: Pacific League,League Play,Week 8,Bind,4,59%,41%
+Champions Tour 2023: Pacific League,League Play,Week 8,Haven,4,51%,49%
+Champions Tour 2023: Pacific League,League Play,Week 8,Lotus,4,44%,56%
+Champions Tour 2023: Pacific League,League Play,Week 8,Pearl,3,49%,51%
+Champions Tour 2023: Pacific League,League Play,Week 8,Fracture,2,54%,46%
+Champions Tour 2023: Pacific League,League Play,Week 8,Split,2,61%,39%
+Champions Tour 2023: Pacific League,All Stages,All Match Types,All Maps,133,52%,48%
+Champions Tour 2023: Pacific League,All Stages,All Match Types,Fracture,23,50%,50%
+Champions Tour 2023: Pacific League,All Stages,All Match Types,Haven,23,51%,49%
+Champions Tour 2023: Pacific League,All Stages,All Match Types,Ascent,21,55%,45%
+Champions Tour 2023: Pacific League,All Stages,All Match Types,Pearl,19,55%,45%
+Champions Tour 2023: Pacific League,All Stages,All Match Types,Lotus,17,47%,53%
+Champions Tour 2023: Pacific League,All Stages,All Match Types,Split,16,53%,47%
+Champions Tour 2023: Pacific League,All Stages,All Match Types,Bind,10,51%,49%
+Champions Tour 2023: Pacific League,All Stages,All Match Types,Icebox,4,50%,50%
+Champions Tour 2023: EMEA League,Playoffs,Upper Round 1,All Maps,5,37%,63%
+Champions Tour 2023: EMEA League,Playoffs,Upper Round 1,Ascent,2,35%,65%
+Champions Tour 2023: EMEA League,Playoffs,Upper Round 1,Bind,1,38%,63%
+Champions Tour 2023: EMEA League,Playoffs,Upper Round 1,Haven,1,39%,61%
+Champions Tour 2023: EMEA League,Playoffs,Upper Round 1,Lotus,1,37%,63%
+Champions Tour 2023: EMEA League,Playoffs,Upper Semifinals,All Maps,5,58%,42%
+Champions Tour 2023: EMEA League,Playoffs,Upper Semifinals,Split,2,58%,42%
+Champions Tour 2023: EMEA League,Playoffs,Upper Semifinals,Bind,2,52%,48%
+Champions Tour 2023: EMEA League,Playoffs,Upper Semifinals,Lotus,1,79%,21%
+Champions Tour 2023: EMEA League,Playoffs,Upper Final,All Maps,2,63%,37%
+Champions Tour 2023: EMEA League,Playoffs,Upper Final,Lotus,1,58%,42%
+Champions Tour 2023: EMEA League,Playoffs,Upper Final,Bind,1,68%,32%
+Champions Tour 2023: EMEA League,Playoffs,Grand Final,All Maps,4,45%,55%
+Champions Tour 2023: EMEA League,Playoffs,Grand Final,Ascent,1,33%,67%
+Champions Tour 2023: EMEA League,Playoffs,Grand Final,Fracture,1,38%,63%
+Champions Tour 2023: EMEA League,Playoffs,Grand Final,Haven,1,47%,53%
+Champions Tour 2023: EMEA League,Playoffs,Grand Final,Lotus,1,63%,38%
+Champions Tour 2023: EMEA League,Playoffs,Lower Round 1,All Maps,5,51%,49%
+Champions Tour 2023: EMEA League,Playoffs,Lower Round 1,Ascent,1,41%,59%
+Champions Tour 2023: EMEA League,Playoffs,Lower Round 1,Haven,1,59%,41%
+Champions Tour 2023: EMEA League,Playoffs,Lower Round 1,Lotus,1,37%,63%
+Champions Tour 2023: EMEA League,Playoffs,Lower Round 1,Pearl,1,41%,59%
+Champions Tour 2023: EMEA League,Playoffs,Lower Round 1,Split,1,77%,23%
+Champions Tour 2023: EMEA League,Playoffs,Lower Round 2,All Maps,2,66%,34%
+Champions Tour 2023: EMEA League,Playoffs,Lower Round 2,Lotus,1,76%,24%
+Champions Tour 2023: EMEA League,Playoffs,Lower Round 2,Fracture,1,55%,45%
+Champions Tour 2023: EMEA League,Playoffs,Lower Final,All Maps,3,63%,37%
+Champions Tour 2023: EMEA League,Playoffs,Lower Final,Lotus,1,83%,17%
+Champions Tour 2023: EMEA League,Playoffs,Lower Final,Ascent,1,61%,39%
+Champions Tour 2023: EMEA League,Playoffs,Lower Final,Split,1,39%,61%
+Champions Tour 2023: EMEA League,Regular Season,Week 1,All Maps,24,48%,52%
+Champions Tour 2023: EMEA League,Regular Season,Week 1,Split,7,52%,48%
+Champions Tour 2023: EMEA League,Regular Season,Week 1,Lotus,4,47%,53%
+Champions Tour 2023: EMEA League,Regular Season,Week 1,Icebox,4,49%,51%
+Champions Tour 2023: EMEA League,Regular Season,Week 1,Ascent,3,47%,53%
+Champions Tour 2023: EMEA League,Regular Season,Week 1,Fracture,2,33%,67%
+Champions Tour 2023: EMEA League,Regular Season,Week 1,Haven,2,51%,49%
+Champions Tour 2023: EMEA League,Regular Season,Week 1,Pearl,2,43%,57%
+Champions Tour 2023: EMEA League,Regular Season,Week 2,All Maps,10,42%,58%
+Champions Tour 2023: EMEA League,Regular Season,Week 2,Ascent,4,46%,54%
+Champions Tour 2023: EMEA League,Regular Season,Week 2,Lotus,2,42%,58%
+Champions Tour 2023: EMEA League,Regular Season,Week 2,Fracture,1,38%,62%
+Champions Tour 2023: EMEA League,Regular Season,Week 2,Haven,1,48%,52%
+Champions Tour 2023: EMEA League,Regular Season,Week 2,Icebox,1,44%,56%
+Champions Tour 2023: EMEA League,Regular Season,Week 2,Split,1,7%,93%
+Champions Tour 2023: EMEA League,Regular Season,Week 3,All Maps,10,56%,44%
+Champions Tour 2023: EMEA League,Regular Season,Week 3,Ascent,3,40%,60%
+Champions Tour 2023: EMEA League,Regular Season,Week 3,Lotus,2,80%,20%
+Champions Tour 2023: EMEA League,Regular Season,Week 3,Split,2,71%,29%
+Champions Tour 2023: EMEA League,Regular Season,Week 3,Haven,1,32%,68%
+Champions Tour 2023: EMEA League,Regular Season,Week 3,Icebox,1,48%,52%
+Champions Tour 2023: EMEA League,Regular Season,Week 3,Pearl,1,56%,44%
+Champions Tour 2023: EMEA League,Regular Season,Week 4,All Maps,10,48%,52%
+Champions Tour 2023: EMEA League,Regular Season,Week 4,Ascent,3,33%,67%
+Champions Tour 2023: EMEA League,Regular Season,Week 4,Lotus,2,73%,27%
+Champions Tour 2023: EMEA League,Regular Season,Week 4,Split,2,69%,31%
+Champions Tour 2023: EMEA League,Regular Season,Week 4,Fracture,1,42%,58%
+Champions Tour 2023: EMEA League,Regular Season,Week 4,Haven,1,32%,68%
+Champions Tour 2023: EMEA League,Regular Season,Week 4,Icebox,1,28%,72%
+Champions Tour 2023: EMEA League,Regular Season,Week 5,All Maps,13,45%,55%
+Champions Tour 2023: EMEA League,Regular Season,Week 5,Lotus,4,45%,55%
+Champions Tour 2023: EMEA League,Regular Season,Week 5,Icebox,3,47%,53%
+Champions Tour 2023: EMEA League,Regular Season,Week 5,Ascent,2,42%,58%
+Champions Tour 2023: EMEA League,Regular Season,Week 5,Haven,2,48%,52%
+Champions Tour 2023: EMEA League,Regular Season,Week 5,Fracture,1,52%,48%
+Champions Tour 2023: EMEA League,Regular Season,Week 5,Split,1,30%,70%
+Champions Tour 2023: EMEA League,Regular Season,Week 6,All Maps,11,48%,52%
+Champions Tour 2023: EMEA League,Regular Season,Week 6,Bind,3,38%,62%
+Champions Tour 2023: EMEA League,Regular Season,Week 6,Ascent,2,54%,46%
+Champions Tour 2023: EMEA League,Regular Season,Week 6,Haven,2,47%,53%
+Champions Tour 2023: EMEA League,Regular Season,Week 6,Pearl,2,58%,42%
+Champions Tour 2023: EMEA League,Regular Season,Week 6,Fracture,1,54%,46%
+Champions Tour 2023: EMEA League,Regular Season,Week 6,Lotus,1,42%,58%
+Champions Tour 2023: EMEA League,Regular Season,Week 7,All Maps,11,51%,49%
+Champions Tour 2023: EMEA League,Regular Season,Week 7,Lotus,4,48%,52%
+Champions Tour 2023: EMEA League,Regular Season,Week 7,Ascent,3,55%,45%
+Champions Tour 2023: EMEA League,Regular Season,Week 7,Bind,1,45%,55%
+Champions Tour 2023: EMEA League,Regular Season,Week 7,Fracture,1,65%,35%
+Champions Tour 2023: EMEA League,Regular Season,Week 7,Haven,1,33%,67%
+Champions Tour 2023: EMEA League,Regular Season,Week 7,Split,1,52%,48%
+Champions Tour 2023: EMEA League,Regular Season,Week 8,All Maps,11,55%,45%
+Champions Tour 2023: EMEA League,Regular Season,Week 8,Lotus,4,64%,36%
+Champions Tour 2023: EMEA League,Regular Season,Week 8,Haven,2,49%,51%
+Champions Tour 2023: EMEA League,Regular Season,Week 8,Split,2,53%,47%
+Champions Tour 2023: EMEA League,Regular Season,Week 8,Ascent,1,50%,50%
+Champions Tour 2023: EMEA League,Regular Season,Week 8,Fracture,1,55%,45%
+Champions Tour 2023: EMEA League,Regular Season,Week 8,Pearl,1,39%,61%
+Champions Tour 2023: EMEA League,All Stages,All Match Types,All Maps,126,49%,51%
+Champions Tour 2023: EMEA League,All Stages,All Match Types,Lotus,30,56%,44%
+Champions Tour 2023: EMEA League,All Stages,All Match Types,Ascent,26,44%,56%
+Champions Tour 2023: EMEA League,All Stages,All Match Types,Split,20,54%,46%
+Champions Tour 2023: EMEA League,All Stages,All Match Types,Haven,15,46%,54%
+Champions Tour 2023: EMEA League,All Stages,All Match Types,Fracture,10,47%,53%
+Champions Tour 2023: EMEA League,All Stages,All Match Types,Icebox,10,46%,54%
+Champions Tour 2023: EMEA League,All Stages,All Match Types,Bind,8,46%,54%
+Champions Tour 2023: EMEA League,All Stages,All Match Types,Pearl,7,48%,52%
+Champions Tour 2023: Americas League,Playoffs,Upper Round 1,All Maps,6,47%,53%
+Champions Tour 2023: Americas League,Playoffs,Upper Round 1,Ascent,2,47%,53%
+Champions Tour 2023: Americas League,Playoffs,Upper Round 1,Bind,1,42%,58%
+Champions Tour 2023: Americas League,Playoffs,Upper Round 1,Haven,1,46%,54%
+Champions Tour 2023: Americas League,Playoffs,Upper Round 1,Pearl,1,67%,33%
+Champions Tour 2023: Americas League,Playoffs,Upper Round 1,Split,1,33%,67%
+Champions Tour 2023: Americas League,Playoffs,Upper Semifinals,All Maps,4,51%,49%
+Champions Tour 2023: Americas League,Playoffs,Upper Semifinals,Ascent,1,61%,39%
+Champions Tour 2023: Americas League,Playoffs,Upper Semifinals,Bind,1,33%,67%
+Champions Tour 2023: Americas League,Playoffs,Upper Semifinals,Fracture,1,50%,50%
+Champions Tour 2023: Americas League,Playoffs,Upper Semifinals,Haven,1,59%,41%
+Champions Tour 2023: Americas League,Playoffs,Upper Final,All Maps,3,60%,40%
+Champions Tour 2023: Americas League,Playoffs,Upper Final,Ascent,1,63%,38%
+Champions Tour 2023: Americas League,Playoffs,Upper Final,Bind,1,69%,31%
+Champions Tour 2023: Americas League,Playoffs,Upper Final,Fracture,1,50%,50%
+Champions Tour 2023: Americas League,Playoffs,Grand Final,All Maps,3,50%,50%
+Champions Tour 2023: Americas League,Playoffs,Grand Final,Ascent,1,32%,68%
+Champions Tour 2023: Americas League,Playoffs,Grand Final,Bind,1,54%,46%
+Champions Tour 2023: Americas League,Playoffs,Grand Final,Fracture,1,63%,38%
+Champions Tour 2023: Americas League,Playoffs,Lower Round 1,All Maps,5,45%,55%
+Champions Tour 2023: Americas League,Playoffs,Lower Round 1,Haven,2,50%,50%
+Champions Tour 2023: Americas League,Playoffs,Lower Round 1,Ascent,1,47%,53%
+Champions Tour 2023: Americas League,Playoffs,Lower Round 1,Bind,1,23%,77%
+Champions Tour 2023: Americas League,Playoffs,Lower Round 1,Lotus,1,57%,43%
+Champions Tour 2023: Americas League,Playoffs,Lower Round 2,All Maps,3,45%,55%
+Champions Tour 2023: Americas League,Playoffs,Lower Round 2,Lotus,1,50%,50%
+Champions Tour 2023: Americas League,Playoffs,Lower Round 2,Haven,1,50%,50%
+Champions Tour 2023: Americas League,Playoffs,Lower Round 2,Pearl,1,35%,65%
+Champions Tour 2023: Americas League,Playoffs,Lower Final,All Maps,4,47%,53%
+Champions Tour 2023: Americas League,Playoffs,Lower Final,Ascent,1,33%,67%
+Champions Tour 2023: Americas League,Playoffs,Lower Final,Haven,1,46%,54%
+Champions Tour 2023: Americas League,Playoffs,Lower Final,Lotus,1,35%,65%
+Champions Tour 2023: Americas League,Playoffs,Lower Final,Split,1,82%,18%
+Champions Tour 2023: Americas League,Regular Season,Week 1,All Maps,12,49%,51%
+Champions Tour 2023: Americas League,Regular Season,Week 1,Split,3,48%,52%
+Champions Tour 2023: Americas League,Regular Season,Week 1,Ascent,2,55%,45%
+Champions Tour 2023: Americas League,Regular Season,Week 1,Fracture,2,52%,48%
+Champions Tour 2023: Americas League,Regular Season,Week 1,Lotus,2,49%,51%
+Champions Tour 2023: Americas League,Regular Season,Week 1,Pearl,2,38%,63%
+Champions Tour 2023: Americas League,Regular Season,Week 1,Haven,1,63%,38%
+Champions Tour 2023: Americas League,Regular Season,Week 2,All Maps,13,54%,46%
+Champions Tour 2023: Americas League,Regular Season,Week 2,Ascent,3,38%,62%
+Champions Tour 2023: Americas League,Regular Season,Week 2,Icebox,3,57%,43%
+Champions Tour 2023: Americas League,Regular Season,Week 2,Pearl,3,62%,38%
+Champions Tour 2023: Americas League,Regular Season,Week 2,Lotus,2,70%,30%
+Champions Tour 2023: Americas League,Regular Season,Week 2,Haven,1,41%,59%
+Champions Tour 2023: Americas League,Regular Season,Week 2,Split,1,55%,45%
+Champions Tour 2023: Americas League,Regular Season,Week 3,All Maps,13,48%,52%
+Champions Tour 2023: Americas League,Regular Season,Week 3,Ascent,3,36%,64%
+Champions Tour 2023: Americas League,Regular Season,Week 3,Pearl,3,62%,38%
+Champions Tour 2023: Americas League,Regular Season,Week 3,Split,3,44%,56%
+Champions Tour 2023: Americas League,Regular Season,Week 3,Icebox,2,53%,48%
+Champions Tour 2023: Americas League,Regular Season,Week 3,Fracture,1,55%,45%
+Champions Tour 2023: Americas League,Regular Season,Week 3,Lotus,1,45%,55%
+Champions Tour 2023: Americas League,Regular Season,Week 4,All Maps,25,49%,51%
+Champions Tour 2023: Americas League,Regular Season,Week 4,Ascent,6,41%,59%
+Champions Tour 2023: Americas League,Regular Season,Week 4,Haven,5,57%,43%
+Champions Tour 2023: Americas League,Regular Season,Week 4,Pearl,5,48%,52%
+Champions Tour 2023: Americas League,Regular Season,Week 4,Fracture,4,57%,43%
+Champions Tour 2023: Americas League,Regular Season,Week 4,Icebox,2,38%,63%
+Champions Tour 2023: Americas League,Regular Season,Week 4,Split,2,40%,60%
+Champions Tour 2023: Americas League,Regular Season,Week 4,Lotus,1,63%,38%
+Champions Tour 2023: Americas League,Regular Season,Week 5,All Maps,12,47%,53%
+Champions Tour 2023: Americas League,Regular Season,Week 5,Split,3,38%,62%
+Champions Tour 2023: Americas League,Regular Season,Week 5,Pearl,3,67%,33%
+Champions Tour 2023: Americas League,Regular Season,Week 5,Ascent,2,30%,70%
+Champions Tour 2023: Americas League,Regular Season,Week 5,Fracture,2,46%,54%
+Champions Tour 2023: Americas League,Regular Season,Week 5,Bind,1,55%,45%
+Champions Tour 2023: Americas League,Regular Season,Week 5,Lotus,1,41%,59%
+Champions Tour 2023: Americas League,Regular Season,Week 6,All Maps,11,56%,44%
+Champions Tour 2023: Americas League,Regular Season,Week 6,Split,3,44%,56%
+Champions Tour 2023: Americas League,Regular Season,Week 6,Haven,2,66%,34%
+Champions Tour 2023: Americas League,Regular Season,Week 6,Pearl,2,62%,38%
+Champions Tour 2023: Americas League,Regular Season,Week 6,Ascent,1,50%,50%
+Champions Tour 2023: Americas League,Regular Season,Week 6,Bind,1,79%,21%
+Champions Tour 2023: Americas League,Regular Season,Week 6,Fracture,1,37%,63%
+Champions Tour 2023: Americas League,Regular Season,Week 6,Lotus,1,53%,47%
+Champions Tour 2023: Americas League,Regular Season,Week 7,All Maps,11,54%,46%
+Champions Tour 2023: Americas League,Regular Season,Week 7,Lotus,3,51%,49%
+Champions Tour 2023: Americas League,Regular Season,Week 7,Fracture,2,63%,37%
+Champions Tour 2023: Americas League,Regular Season,Week 7,Haven,2,56%,44%
+Champions Tour 2023: Americas League,Regular Season,Week 7,Pearl,2,53%,47%
+Champions Tour 2023: Americas League,Regular Season,Week 7,Bind,1,39%,61%
+Champions Tour 2023: Americas League,Regular Season,Week 7,Split,1,61%,39%
+Champions Tour 2023: Americas League,Regular Season,Week 8,All Maps,13,50%,50%
+Champions Tour 2023: Americas League,Regular Season,Week 8,Split,3,56%,44%
+Champions Tour 2023: Americas League,Regular Season,Week 8,Ascent,2,46%,54%
+Champions Tour 2023: Americas League,Regular Season,Week 8,Bind,2,37%,63%
+Champions Tour 2023: Americas League,Regular Season,Week 8,Haven,2,53%,47%
+Champions Tour 2023: Americas League,Regular Season,Week 8,Lotus,2,66%,34%
+Champions Tour 2023: Americas League,Regular Season,Week 8,Fracture,1,53%,47%
+Champions Tour 2023: Americas League,Regular Season,Week 8,Pearl,1,33%,67%
+Champions Tour 2023: Americas League,All Stages,All Match Types,All Maps,138,50%,50%
+Champions Tour 2023: Americas League,All Stages,All Match Types,Ascent,26,42%,58%
+Champions Tour 2023: Americas League,All Stages,All Match Types,Pearl,23,55%,45%
+Champions Tour 2023: Americas League,All Stages,All Match Types,Split,21,47%,53%
+Champions Tour 2023: Americas League,All Stages,All Match Types,Haven,19,55%,45%
+Champions Tour 2023: Americas League,All Stages,All Match Types,Fracture,16,54%,46%
+Champions Tour 2023: Americas League,All Stages,All Match Types,Lotus,16,55%,45%
+Champions Tour 2023: Americas League,All Stages,All Match Types,Bind,10,47%,53%
+Champions Tour 2023: Americas League,All Stages,All Match Types,Icebox,7,50%,50%
