@@ -1,8 +1,7 @@
-# Projeto Final da Disciplina de Introdução à Ciência de Dados 🎲
+<h1 align="center">A Jornada do Campeão: <br> Uma Análise Detalhada do Valorant Champion Tour 🎮</h1>
+<br>
 
-<h2 align="center">A Jornada do Campeão: <br> Uma Análise Detalhada do Valorant Champion Tour 🎮</h2>
-
-Este projeto tem como objetivo realizar uma análise detalhada do Valorant Champion Tour (VCT), um dos principais torneios de eSports de Valorant, utilizando técnicas de ciência de dados.
+Este é o projeto final da disciplina de Introdução à Ciência de Dados 2023.2 do Curso de gradução Bacharelado em Ciências de Dados e Inteligência Artificial da Universidade da Paraíba e tem como objetivo realizar uma análise detalhada do Valorant Champion Tour (VCT), um dos principais torneios de eSports de Valorant, utilizando técnicas de ciência de dados.
 
 ## Sobre Valorant e Valorant Champion Tour (VCT)
 
