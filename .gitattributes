@@ -1,0 +1,9 @@
+dataset/vct_2022/matches/eco_rounds.csv filter=lfs diff=lfs merge=lfs -text
+dataset/vct_2021/matches/eco_rounds.csv filter=lfs diff=lfs merge=lfs -text
+dataset/vct_2021/matches/win_loss_methods_round_number.csv filter=lfs diff=lfs merge=lfs -text
+dataset/vct_2022/matches/overview.csv filter=lfs diff=lfs merge=lfs -text
+dataset/vct_2021/matches/overview.csv filter=lfs diff=lfs merge=lfs -text
+dataset/vct_2021/matches/rounds_kills.csv filter=lfs diff=lfs merge=lfs -text
+dataset/vct_2022/matches/kills.csv filter=lfs diff=lfs merge=lfs -text
+dataset/vct_2022/matches/rounds_kills.csv filter=lfs diff=lfs merge=lfs -text
+dataset/vct_2021/matches/kills.csv filter=lfs diff=lfs merge=lfs -text
