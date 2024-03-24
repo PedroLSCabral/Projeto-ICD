@@ -10,7 +10,7 @@ Este é o projeto final da disciplina de Introdução à Ciência de Dados 2023.
 **Valorant Champion Tour (VCT)** é uma série de torneios profissionais organizados pela Riot Games, onde equipes de todo o mundo competem em busca do título de campeão mundial. O VCT oferece uma plataforma para jogadores profissionais demonstrarem suas habilidades, estratégias e trabalho em equipe.
 
 # Cientistas de Dados
-* [Carlos Freitas](https://github.com/carlimmsantos)
+* [Carlos Santos](https://github.com/carlimmsantos)
 * [Gabriele Targino](https://github.com/gabitargino)
 * [Pedro Lucas Simões](https://github.com/pedroLucabral)
 * [Wesley Vieira](https://github.com/wesleyvieira1)
