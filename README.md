@@ -15,7 +15,7 @@ Este é o projeto final da disciplina de Introdução à Ciência de Dados 2023.
 * [Pedro Lucas Simões](https://github.com/pedroLucabral)
 * [Wesley Vieira](https://github.com/wesleyvieira1)
 
-# Professor prof
+# Professor
 * [Yuri Malheiros](https://github.com/yurimalheiros)
 
 # Perguntas a serem respondidas 🤔
