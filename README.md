@@ -22,7 +22,8 @@ Este é o projeto final da disciplina de Introdução à Ciência de Dados 2023.
 
 1. Quais fatores influenciam o desempenho de uma equipe em um torneio Valorant?
 2. Quais agentes são os mais eficazes em diferentes mapas e situações?
-3. Como os jogadores profissionais estão se adaptando ao meta do jogo?
+3. Quais agentes estão sendo escolhidos com mais frequência ao longo do tempo?
+4. Qual é a distribuição percentual de vitórias na defesa e no ataque nos mapas jogados?
 
 ## Ferramentas Utilizadas 🛠️
 * **Python** - Linguagem de programação poderosa
