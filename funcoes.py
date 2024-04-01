@@ -8,3 +8,7 @@ def juntar_tabelas(dataframe, coluna, valor):
 
 
     return concatenado.reset_index()
+
+#Função para mostrar descrição da tabela
+def descricao_tabela(dataframe, coluna, name):
+    return dataframe[dataframe[coluna] == name].describe()
