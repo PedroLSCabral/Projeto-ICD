@@ -1,5 +1,8 @@
 #Função para juntar todos as tabelas filtradas
 import pandas as pd
+import matplotlib.pyplot as plt
+import numpy as np
+
 
 def juntar_tabelas(dataframe, coluna, valor):
     df_concatenado = pd.concat(dataframe)
@@ -12,3 +15,48 @@ def juntar_tabelas(dataframe, coluna, valor):
 #Função para mostrar descrição da tabela
 def descricao_tabela(dataframe, coluna, name):
     return dataframe[dataframe[coluna] == name].describe()
+
+
+#Função para Montar o grafico dos mapas;
+def mostraGraficoMap(maps_vct):
+
+    bar_width = 0.35
+
+
+    bar_positions = np.arange(len(maps_vct))
+
+
+    fig, ax = plt.subplots()
+
+
+    ax.barh(bar_positions - bar_width/2, maps_vct['Attacker Side Win Percentage'], bar_width, label='Ataque', color='blue')
+
+
+    ax.barh(bar_positions + bar_width/2, maps_vct['Defender Side Win Percentage'], bar_width, label='Defesa', color='orange')
+
+
+    ax.set_yticks(bar_positions)
+    ax.set_yticklabels(maps_vct['Map'])
+    ax.set_xlabel('Porcentagem de Vitória')
+    ax.set_title('Porcentagem de Vitória por Mapa e Lado')
+    ax.legend()
+
+    plt.show()
+
+#Função para Montar o grafico dos agentes
+def mostraGraficoAgent(agents_vct):
+
+    bar_width = 0.6  # Largura da barra
+    bar_positions = np.arange(len(agents_vct))
+
+    fig, ax = plt.subplots(figsize=(7, 8))
+
+    ax.barh(bar_positions - bar_width/2, agents_vct['Pick Rate (%)'], bar_width, label='Pick Rate (%)', color='orange')
+
+    ax.set_yticks(bar_positions)
+    ax.set_yticklabels(agents_vct['Agent'])
+    ax.set_xlabel('Porcentagem de Escolha')
+    ax.set_title('Porcentagem de Escolha por Agente')
+    ax.legend()
+
+    plt.show()
