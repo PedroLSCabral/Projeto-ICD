@@ -26,7 +26,7 @@ def mostraGraficoMap(maps_vct):
     bar_positions = np.arange(len(maps_vct))
 
 
-    fig, ax = plt.subplots()
+    fig, ax = plt.subplots(figsize=(11, 5))
 
 
     ax.barh(bar_positions + bar_width/2, maps_vct['Total Defender Side Win Percentage'], bar_width, label='Defesa', color='orange')
@@ -35,9 +35,10 @@ def mostraGraficoMap(maps_vct):
 
     ax.set_yticks(bar_positions)
     ax.set_yticklabels(maps_vct['Map'])
+    ax.set_ylabel("Mapas")
     ax.set_xlabel('Porcentagem de Vitória')
     ax.set_title('Porcentagem de Vitória por Mapa e Lado')
-    ax.legend()
+    ax.legend(loc="lower right")
 
     plt.show()
 
