@@ -29,11 +29,9 @@ def mostraGraficoMap(maps_vct):
     fig, ax = plt.subplots()
 
 
-    ax.barh(bar_positions - bar_width/2, maps_vct['Attacker Side Win Percentage'], bar_width, label='Ataque', color='blue')
+    ax.barh(bar_positions + bar_width/2, maps_vct['Total Defender Side Win Percentage'], bar_width, label='Defesa', color='orange')
 
-
-    ax.barh(bar_positions + bar_width/2, maps_vct['Defender Side Win Percentage'], bar_width, label='Defesa', color='orange')
-
+    ax.barh(bar_positions - bar_width/2, maps_vct['Total Attacker Side Win Percentage'], bar_width, label='Ataque', color='blue')
 
     ax.set_yticks(bar_positions)
     ax.set_yticklabels(maps_vct['Map'])
@@ -49,7 +47,7 @@ def mostraGraficoAgent(agents_vct):
     bar_width = 0.6  # Largura da barra
     bar_positions = np.arange(len(agents_vct))
 
-    fig, ax = plt.subplots(figsize=(7, 8))
+    fig, ax = plt.subplots(figsize=(10, 8))
 
     ax.barh(bar_positions - bar_width/2, agents_vct['Pick Rate (%)'], bar_width, label='Pick Rate (%)', color='orange')
 
