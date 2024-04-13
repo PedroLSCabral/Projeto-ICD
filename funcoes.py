@@ -61,6 +61,10 @@ def mostraGraficoAgent(agents_vct):
     plt.show()
 
 
+
+
+import pandas as pd
+
 def bestPlayerRegion(dataset, times, tournament):
     lista_jogadores = []
 
@@ -73,16 +77,24 @@ def bestPlayerRegion(dataset, times, tournament):
         ]
 
         players_grouped = players.groupby('Player').agg({
-            'Kills': 'sum'
+            'Kills': 'sum',
+            'Kills Per Round': 'mean',
+            'Average Damage Per Round': 'mean',
+            'Headshot %': lambda x: pd.to_numeric(x.str.replace('%', ''), errors='coerce').mean(),
+            'Kills:Deaths': 'mean'
         }).reset_index()
 
-        players_grouped['Kills'] = players_grouped['Kills'].round(2)
+        players_grouped['Kills Mean'] = players_grouped['Kills'] / players_grouped.shape[0]
+        players_grouped['Kills Per Round Mean'] = players_grouped['Kills Per Round']
+        players_grouped['Average Damage Per Round Mean'] = players_grouped['Average Damage Per Round']
+        players_grouped['Headshot % Mean'] = players_grouped['Headshot %']
+        players_grouped['Kills:Deaths Mean'] = players_grouped['Kills:Deaths']
 
         lista_jogadores.append(players_grouped)
 
     
     jogadores = pd.concat(lista_jogadores).reset_index(drop=True)
 
-    best_player = jogadores.sort_values(by='Kills', ascending=False).reset_index(drop=True)
+    best_player = jogadores.sort_values(by='Kills Mean', ascending=False).head(1)
 
     return best_player
