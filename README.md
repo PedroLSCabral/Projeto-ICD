@@ -30,4 +30,4 @@ Este é o projeto final da disciplina de Introdução à Ciência de Dados 2023.
 * **Matplotlib & Seaborn** - Bibliotecas de visualização de dados
 
 ## Dados Utilizados 📖
-* 🔎 [Valorant Champion Tour 2021-2022](https://www.kaggle.com/datasets/ryanluong1/valorant-champion-tour-2021-2023-data)
+* 🔎 [Valorant Champion Tour 2021-2023](https://www.kaggle.com/datasets/ryanluong1/valorant-champion-tour-2021-2023-data)
