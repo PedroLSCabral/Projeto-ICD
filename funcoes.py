@@ -5,9 +5,9 @@ import numpy as np
 
 
 def juntar_tabelas(dataframe, coluna, valor):
-    df_concatenado = pd.concat(dataframe)
+    dataset_concatenado = pd.concat(dataframe)
 
-    concatenado = df_concatenado.groupby(coluna)[valor].sum()
+    concatenado = dataset_concatenado.groupby(coluna)[valor].sum()
 
 
     return concatenado.reset_index()
@@ -59,3 +59,30 @@ def mostraGraficoAgent(agents_vct):
     ax.legend()
 
     plt.show()
+
+
+def bestPlayerRegion(dataset, times, tournament):
+    lista_jogadores = []
+
+    for team in times:
+        players = dataset[
+            (dataset['Tournament'] == tournament) &
+            (dataset['Stage'] == 'All Stages') &
+            (dataset['Match Type'] == 'All Match Types') &
+            (dataset['Team'] == team)
+        ]
+
+        players_grouped = players.groupby('Player').agg({
+            'Kills': 'sum'
+        }).reset_index()
+
+        players_grouped['Kills'] = players_grouped['Kills'].round(2)
+
+        lista_jogadores.append(players_grouped)
+
+    
+    jogadores = pd.concat(lista_jogadores).reset_index(drop=True)
+
+    best_player = jogadores.sort_values(by='Kills', ascending=False).reset_index(drop=True)
+
+    return best_player
