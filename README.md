@@ -20,10 +20,9 @@ Este é o projeto final da disciplina de Introdução à Ciência de Dados 2023.
 
 # Perguntas a serem respondidas 🤔
 
-1. Quais fatores influenciam o desempenho de uma equipe em um torneio Valorant?
-2. Quais agentes são os mais eficazes em diferentes mapas e situações?
-3. Quais agentes estão sendo escolhidos com mais frequência ao longo do tempo?
-4. Qual é a distribuição percentual de vitórias na defesa e no ataque nos mapas jogados?
+1. Quais agentes estão sendo escolhidos com mais frequência ao longo do tempo?
+2. Qual é a distribuição percentual de vitórias na defesa e no ataque nos mapas jogados?
+3. Qual o melhor jogador de valorant nos campeonatos internacionais durantes os anos?
 
 ## Ferramentas Utilizadas 🛠️
 * **Python** - Linguagem de programação poderosa
@@ -31,4 +30,4 @@ Este é o projeto final da disciplina de Introdução à Ciência de Dados 2023.
 * **Matplotlib & Seaborn** - Bibliotecas de visualização de dados
 
 ## Dados Utilizados 📖
-* 🔎 [Valorant Champion Tour 2021-2022](https://www.kaggle.com/datasets/ryanluong1/valorant-champion-tour-2021-2023-data)
+* 🔎 [Valorant Champion Tour 2021-2023](https://www.kaggle.com/datasets/ryanluong1/valorant-champion-tour-2021-2023-data)
