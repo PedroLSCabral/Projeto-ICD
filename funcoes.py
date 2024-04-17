@@ -3,12 +3,11 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-
+#Função para juntar todas as tabelas filtradas
 def juntar_tabelas(dataframe, coluna, valor):
     dataset_concatenado = pd.concat(dataframe)
 
     concatenado = dataset_concatenado.groupby(coluna)[valor].sum()
-
 
     return concatenado.reset_index()
 
@@ -16,18 +15,14 @@ def juntar_tabelas(dataframe, coluna, valor):
 def descricao_tabela(dataframe, coluna, name):
     return dataframe[dataframe[coluna] == name].describe()
 
-
 #Função para Montar o grafico dos mapas;
 def mostraGraficoMap(maps_vct):
 
     bar_width = 0.35
 
-
     bar_positions = np.arange(len(maps_vct))
 
-
     fig, ax = plt.subplots(figsize=(11, 5))
-
 
     ax.barh(bar_positions + bar_width/2, maps_vct['Total Defender Side Win Percentage'], bar_width, label='Defesa', color='orange')
 
@@ -60,11 +55,7 @@ def mostraGraficoAgent(agents_vct):
 
     plt.show()
 
-
-
-
-import pandas as pd
-
+#Função para mostrar o melhor jogador de uma região
 def bestPlayerRegion(dataset, times, tournament):
     lista_jogadores = []
 
