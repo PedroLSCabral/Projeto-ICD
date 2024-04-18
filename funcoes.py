@@ -152,3 +152,11 @@ def mapasJogados(dataset, time, tournament):
         dataset['Match Name'].str.contains(time)]
 
     return matches_champions['Map'].count()
+
+def acsOverview(teams, dataset):
+    dict_overview = {}
+    for team in teams:
+        team_acs = dataset[dataset["Team"] == team]["Average Combat Score"].mean().round(2)
+        dict_overview[team] = team_acs
+
+    return dict_overview
