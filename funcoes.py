@@ -89,3 +89,66 @@ def bestPlayerRegion(dataset, times, tournament):
     best_player = jogadores.sort_values(by='Kills Mean', ascending=False).head(1)
 
     return best_player
+
+
+def agentsKD(dataset, tournament):
+    players = dataset[(dataset['Tournament'] == tournament) &
+                      (dataset['Stage'] == 'All Stages') &
+                      (dataset['Match Type'] == 'All Match Types')]
+
+    # filtra as linhas onde o número de agents é exatamente 1
+    players = players[players['Agents'].str.count(',') == 0]
+
+    agents_kd = players[['Agents', 'Kills:Deaths']]
+
+    agents_kd = agents_kd.groupby('Agents')['Kills:Deaths'].mean().reset_index()
+
+    agents_kd = agents_kd.sort_values(by='Kills:Deaths', ascending=False).round(2)
+
+    return agents_kd
+
+
+
+def mudancaValores(dataset):
+    if dataset['Team A'] == 'Team Vikings':
+        if dataset['Team A Score'] > dataset['Team B Score']:
+            return 1
+        elif dataset['Team A Score'] < dataset['Team B Score']:
+            return 0
+
+    elif dataset['Team B'] == 'Team Vikings':
+        if dataset['Team B Score'] > dataset['Team A Score']:
+            return 1
+        elif dataset['Team B Score'] < dataset['Team A Score']:
+            return 0
+
+
+def partidasGanhas(dataset, time, tournament):
+    dataset['Tournament'] = dataset['Tournament'].astype(str)
+    dataset['Team A'] = dataset['Team A'].astype(str)
+    dataset['Team B'] = dataset['Team B'].astype(str)
+
+    matches_champions = dataset[
+        (dataset['Tournament'] == tournament) & 
+        ((dataset['Team A'] == time) | 
+         (dataset['Team B'] == time))
+    ]
+
+    matches_champions.loc[:, 'Team A Score'] = matches_champions['Team A Score'].astype(int)
+    matches_champions.loc[:, 'Team B Score'] = matches_champions['Team B Score'].astype(int)
+
+    matches_champions_copy = matches_champions.copy()
+
+    matches_champions_copy['Result'] = matches_champions_copy.apply(mudancaValores, axis=1)
+
+    matches_champions_copy.drop('Match Result', axis=1, inplace=True)
+
+    return (matches_champions_copy['Result'] == 1).sum()
+
+
+def mapasJogados(dataset, time, tournament):
+    matches_champions = dataset[
+        (dataset['Tournament'] == tournament) & 
+        dataset['Match Name'].str.contains(time)]
+
+    return matches_champions['Map'].count()
