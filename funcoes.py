@@ -3,6 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
+colors = ['#1f77b4', '#ff7f0e', '#d62728', '#9467bd', '#666666'] 
 #Função para juntar todas as tabelas filtradas
 def juntar_tabelas(dataframe, coluna, valor):
     dataset_concatenado = pd.concat(dataframe)
@@ -18,15 +19,15 @@ def descricao_tabela(dataframe, coluna, name):
 #Função para Montar o grafico dos mapas;
 def mostraGraficoMap(maps_vct):
 
-    bar_width = 0.35
+    bar_width = 0.4
 
     bar_positions = np.arange(len(maps_vct))
 
-    fig, ax = plt.subplots(figsize=(11, 5))
+    fig, ax = plt.subplots(figsize=(15, 8))
 
-    ax.barh(bar_positions + bar_width/2, maps_vct['Total Defender Side Win Percentage'], bar_width, label='Defesa', color='orange')
+    ax.barh(bar_positions + bar_width/2, maps_vct['Total Defender Side Win Percentage'], bar_width, label='Defesa', color=colors[0])
 
-    ax.barh(bar_positions - bar_width/2, maps_vct['Total Attacker Side Win Percentage'], bar_width, label='Ataque', color='blue')
+    ax.barh(bar_positions - bar_width/2, maps_vct['Total Attacker Side Win Percentage'], bar_width, label='Ataque', color=colors[1])
 
     ax.set_yticks(bar_positions)
     ax.set_yticklabels(maps_vct['Map'])
@@ -35,23 +36,31 @@ def mostraGraficoMap(maps_vct):
     ax.set_title('Porcentagem de Vitória por Mapa e Lado')
     ax.legend(loc="lower right")
 
+    for pos in range (10, 51, 10):
+        ax.axvline(x=pos, color=colors[4], linestyle='dotted') 
+  
+
     plt.show()
 
 #Função para Montar o grafico dos agentes
 def mostraGraficoAgent(agents_vct):
 
+    
     bar_width = 0.6  # Largura da barra
     bar_positions = np.arange(len(agents_vct))
 
     fig, ax = plt.subplots(figsize=(10, 8))
 
-    ax.barh(bar_positions - bar_width/2, agents_vct['Pick Rate (%)'], bar_width, label='Pick Rate (%)', color='orange')
+    ax.barh(bar_positions - bar_width/2, agents_vct['Pick Rate (%)'], bar_width, label='Pick Rate (%)', color=colors[1])
 
     ax.set_yticks(bar_positions)
     ax.set_yticklabels(agents_vct['Agent'])
     ax.set_xlabel('Porcentagem de Escolha')
     ax.set_title('Porcentagem de Escolha por Agente')
     ax.legend()
+
+    for pos in range (10, 51, 10):
+        ax.axvline(x=pos, color=colors[4], linestyle='dotted') 
 
     plt.show()
 
