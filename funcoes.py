@@ -163,9 +163,18 @@ def mapasJogados(dataset, time, tournament):
     return matches_champions['Map'].count()
 
 def acsOverview(teams, dataset):
-    dict_overview = {}
-    for team in teams:
-        team_acs = dataset[dataset["Team"] == team]["Average Combat Score"].mean().round(2)
-        dict_overview[team] = team_acs
+    team_means = []
 
-    return dict_overview
+    for team in teams:
+        team_acs_mean = dataset[dataset["Team"] == team]["Average Combat Score"].mean().round(2)
+        team_means.append(team_acs_mean)
+
+    team_matches_count = [len(dataset[dataset["Team"] == team]["Match Name"].unique()) for team in teams]
+
+    overview_table = pd.DataFrame({
+        "Team": teams,
+        "Matches Count": team_matches_count,  
+        "Mean ACS": team_means
+    })
+
+    return overview_table
