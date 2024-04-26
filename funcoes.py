@@ -178,3 +178,15 @@ def acsOverview(teams, dataset):
     })
 
     return overview_table
+
+
+def AgentsYear(dataset, year):
+    agents_vctYear_bar = dataset
+
+    agents_vctYear_bar['Year'] = year
+
+    agents_vctYear_ord = dataset.sort_values(by='Pick Rate', ascending=False)
+
+    agents_vctYear_ord = agents_vctYear_ord.head(22)
+
+    return agents_vctYear_ord
