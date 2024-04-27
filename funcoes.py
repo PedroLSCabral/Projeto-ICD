@@ -180,7 +180,7 @@ def acsOverview(teams, dataset):
     return overview_table
 
 
-def AgentsYear(dataset, year):
+def agentsYear(dataset, year):
     agents_vctYear_bar = dataset
 
     agents_vctYear_bar['Year'] = year
@@ -190,3 +190,43 @@ def AgentsYear(dataset, year):
     agents_vctYear_ord = agents_vctYear_ord.head(22)
 
     return agents_vctYear_ord
+
+def mediaMap(maps_vct_total):
+    
+    # Aplicando a media nas vazias da linha da Fracture, para que os dados fique mais facil a visualização
+    media_fracture_attack = (maps_vct_total.loc[maps_vct_total['Map'] == 'Fracture', 'Attacker Side Win Percentage_y'] +  maps_vct_total.loc[maps_vct_total['Map'] == 'Fracture', 'Attacker Side Win Percentage'])/2 
+    media_fracture_defender = (maps_vct_total.loc[maps_vct_total['Map'] == 'Fracture', 'Defender Side Win Percentage_y'] +  maps_vct_total.loc[maps_vct_total['Map'] == 'Fracture', 'Defender Side Win Percentage'])/2
+
+    maps_vct_total.loc[maps_vct_total['Map'] == 'Fracture', 'Attacker Side Win Percentage_x'] = round( media_fracture_attack ,1)
+    maps_vct_total.loc[maps_vct_total['Map'] == 'Fracture', 'Defender Side Win Percentage_x'] = round(media_fracture_defender ,1)
+
+    # Aplicando a media nas vazias da linha da Pearl, para que os dados fique mais facil a visualização
+    media_pear_attack = (maps_vct_total.loc[maps_vct_total['Map'] == 'Pearl', 'Attacker Side Win Percentage_y'] +  maps_vct_total.loc[maps_vct_total['Map'] == 'Pearl', 'Attacker Side Win Percentage'])/2 
+    media_pear_defender = (maps_vct_total.loc[maps_vct_total['Map'] == 'Pearl', 'Defender Side Win Percentage_y'] +  maps_vct_total.loc[maps_vct_total['Map'] == 'Pearl', 'Defender Side Win Percentage'])/2
+
+    maps_vct_total.loc[maps_vct_total['Map'] == 'Pearl', 'Attacker Side Win Percentage_x'] = round(media_pear_attack ,1)
+    maps_vct_total.loc[maps_vct_total['Map'] == 'Pearl', 'Defender Side Win Percentage_x'] = round(media_pear_defender ,1)
+
+    # Aplicando a media nas vazias da linha da Breeze, para que os dados fique mais facil a visualização
+    media_breeze_attack = (maps_vct_total.loc[maps_vct_total['Map'] == 'Breeze', 'Attacker Side Win Percentage_y'] +  maps_vct_total.loc[maps_vct_total['Map'] == 'Breeze', 'Attacker Side Win Percentage_x'])/2 
+    media_breeze_defender =  (maps_vct_total.loc[maps_vct_total['Map'] == 'Breeze', 'Defender Side Win Percentage_y'] +  maps_vct_total.loc[maps_vct_total['Map'] == 'Breeze', 'Defender Side Win Percentage_x'])/2
+
+    maps_vct_total.loc[maps_vct_total['Map'] == 'Breeze', 'Attacker Side Win Percentage'] = round(media_breeze_attack ,1)
+    maps_vct_total.loc[maps_vct_total['Map'] == 'Breeze', 'Defender Side Win Percentage'] = round(media_breeze_defender ,1)
+
+    # Aplicando a media nas vazias da linha da Icebox, para que os dados fique mais facil a visualização
+
+    media_icebox_attack = (maps_vct_total.loc[maps_vct_total['Map'] == 'Icebox', 'Attacker Side Win Percentage_y'] +  maps_vct_total.loc[maps_vct_total['Map'] == 'Icebox', 'Attacker Side Win Percentage_x'])/2 
+    media_icebox_defender = (maps_vct_total.loc[maps_vct_total['Map'] == 'Icebox', 'Defender Side Win Percentage_y'] +  maps_vct_total.loc[maps_vct_total['Map'] == 'Icebox', 'Defender Side Win Percentage_x'])/2 
+
+    maps_vct_total.loc[maps_vct_total['Map'] == 'Icebox', 'Attacker Side Win Percentage'] = round( media_icebox_attack ,1)
+    maps_vct_total.loc[maps_vct_total['Map'] == 'Icebox', 'Defender Side Win Percentage'] = round( media_icebox_defender ,1)
+
+    # Usando os dados para prencher dados vacios na tabela, esse é da lotus
+    maps_vct_total.loc[maps_vct_total['Map'] == 'Lotus', 'Attacker Side Win Percentage_x'] = maps_vct_total.loc[maps_vct_total['Map'] == 'Lotus', 'Attacker Side Win Percentage']
+    maps_vct_total.loc[maps_vct_total['Map'] == 'Lotus', 'Defender Side Win Percentage_x'] = maps_vct_total.loc[maps_vct_total['Map'] == 'Lotus', 'Defender Side Win Percentage']
+
+    maps_vct_total.loc[maps_vct_total['Map'] == 'Lotus', 'Attacker Side Win Percentage_y'] = maps_vct_total.loc[maps_vct_total['Map'] == 'Lotus', 'Attacker Side Win Percentage']
+    maps_vct_total.loc[maps_vct_total['Map'] == 'Lotus', 'Defender Side Win Percentage_y'] = maps_vct_total.loc[maps_vct_total['Map'] == 'Lotus', 'Defender Side Win Percentage']
+
+    return maps_vct_total
