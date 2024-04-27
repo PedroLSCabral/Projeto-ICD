@@ -60,7 +60,7 @@ def mostraGraficoAgent(agents_vct):
     ax.legend()
 
     for pos in range (10, 51, 10):
-        ax.axvline(x=pos, color=colors[4], linestyle='dotted') 
+        ax.axvline(x=pos, color=colors[4], linestyle='-') 
 
     plt.show()
 
