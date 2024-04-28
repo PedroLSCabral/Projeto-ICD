@@ -46,7 +46,7 @@ def mostraGraficoMap(maps_vct):
 #Função para Montar o grafico dos agentes
 def mostraGraficoAgent(agents_vct):
 
-    colors = {'Controlador': '#1f77b4', 'Iniciador': '#ff7f0e', 'Sentinela': '#d62728', 'Duelista': '#9467bd'}
+    colors = {'Controlador': '#008000', 'Iniciador': '#0047AB', 'Sentinela': '#FFC300', 'Duelista': '#DC143C'}
 
     # Configurando o estilo seaborn
     sns.set(style="whitegrid")
