@@ -2,6 +2,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
+import seaborn as sns
 
 colors = ['#1f77b4', '#ff7f0e', '#d62728', '#9467bd', '#666666'] 
 #Função para juntar todas as tabelas filtradas
@@ -45,23 +46,18 @@ def mostraGraficoMap(maps_vct):
 #Função para Montar o grafico dos agentes
 def mostraGraficoAgent(agents_vct):
 
-    
-    bar_width = 0.6  # Largura da barra
-    bar_positions = np.arange(len(agents_vct))
+    colors = {'Controlador': '#1f77b4', 'Iniciador': '#ff7f0e', 'Sentinela': '#d62728', 'Duelista': '#9467bd'}
 
-    fig, ax = plt.subplots(figsize=(10, 8))
+    # Configurando o estilo seaborn
+    sns.set(style="whitegrid")
 
-    ax.barh(bar_positions - bar_width/2, agents_vct['Pick Rate (%)'], bar_width, label='Pick Rate (%)', color=colors[1])
-
-    ax.set_yticks(bar_positions)
-    ax.set_yticklabels(agents_vct['Agent'])
-    ax.set_xlabel('Porcentagem de Escolha')
-    ax.set_title('Porcentagem de Escolha por Agente')
-    ax.legend()
-
-    for pos in range (10, 51, 10):
-        ax.axvline(x=pos, color=colors[4], linestyle='-') 
-
+    # Criando o gráfico de barras horizontais com seaborn
+    plt.figure(figsize=(10, 8))
+    sns.barplot(x='Pick Rate (%)', y='Agent', data=agents_vct, hue='Role', palette=colors)
+    plt.xlabel('Porcentagem de Escolha')
+    plt.ylabel('Agentes')
+    plt.title('Porcentagem de Escolha por Agente')
+    plt.legend(title='Funções')
     plt.show()
 
 #Função para mostrar o melhor jogador de uma região
