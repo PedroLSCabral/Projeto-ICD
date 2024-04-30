@@ -24,6 +24,7 @@ Este é o projeto final da disciplina de Introdução à Ciência de Dados 2023.
 2. Qual é a distribuição percentual de vitórias na defesa e no ataque nos mapas jogados?
 3. Qual o melhor jogador de valorant nos campeonatos internacionais durantes os anos?
 4. Qual o desempenho dos times brasileiros nos campeonatos internacionais durantes os anos?
+5. Qual a relação entre Dano Médio por Rodada e a Pontuação Média de Combate?
 
 ## Ferramentas Utilizadas 🛠️
 * **Python** - Linguagem de programação poderosa

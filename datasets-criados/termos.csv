@@ -1,23 +1,26 @@
-Termo, Descrição
-Kills, Abates
-Deaths, Mortes
-Assists, Assistências
-K/D, Abates / Mortes
-Kills / Round, Abates por rodada
-Deaths / Round, Mortes por rodada
-Headshots, Tiros na cabeça
-Damage, Dano causado
-Econ Rating, Economia
-Pick Rate, Taxa de escolha
-Win Rate, Taxa de vitória
-Agentes, Personagens jogáveis
-Roles, Funções de Agentes
-Duelista, "Responsável por garantir a primeira kill, é o agente que se expõe mais ao risco"
-Sentinela, "Responsável pela defesa, é o agente que deve plantar a bomba."
-Controlador, "Responsável por isolar áreas com habilidades de controle de visão, deve se expor menos ao risco"
-Iniciador, "Responsável por coletar informações acerca do time inimigo"
-Average Combat Score, Pontuação média de combate
-Average Damage per Round, Dano médio por rodada
-First Bloods, Primeiro abate em um Round
-VCT / Valorant Champions Tour, Principal campeonato
-
+Termo,Descrição
+Kills,Abates
+Deaths,Mortes
+Assists,Assistências
+K/D,Abates / Mortes
+Kills / Round,Abates por rodada
+Deaths / Round,Mortes por rodada
+Headshots,Tiros na cabeça
+Damage,Dano causado
+Econ Rating,Economia
+Pick Rate,Taxa de escolha
+Win Rate,Taxa de vitória
+Agentes,Personagens jogáveis
+Roles,Funções de Agentes
+Duelista,"Responsável por garantir a primeira kill, é o agente que se expõe mais ao risco"
+Sentinela,"Responsável pela defesa, é o agente que deve plantar a bomba."
+Controlador,"Responsável por isolar áreas com habilidades de controle de visão, deve se expor menos ao risco"
+Iniciador,"Responsável por coletar informações acerca do time inimigo"
+Average Combat Score,Pontuação média de combate
+Average Damage per Round,Dano médio por rodada
+First Bloods,Primeiro abate em um Round
+VCT / Valorant Champions Tour,Principal campeonato
+Controlador,Controla o mapa.
+Duelista,Combate direto.
+Sentinela,Defende e vigia.
+Iniciador,Inicia confrontos.
